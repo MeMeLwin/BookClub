@@ -1,0 +1,50 @@
+body{
+  font-family: monospace;
+}
+
+#header img{
+  width: 100%;
+  height:120px;
+}
+
+.login{
+  text-align: right;
+  padding: 10px;
+}
+
+.container h1{
+  text-align: center;
+  font-weight: bold;
+}
+
+.container .register{
+  text-align: center;
+}
+.container #main img{
+  width: 100%;
+  height:600px;
+}
+
+.container .row .box{
+  padding: 5px;
+  height: 135px;
+}
+
+body h1{
+  padding-left: 30px;
+}
+.faq h2{
+    padding-left: 30px;
+    color: #C5DE60;
+}
+
+.faq p{
+  padding-left: 30px;
+  font-size: medium;
+}
+
+
+.container .link{
+  padding: 20px;
+  text-align: center;
+}
